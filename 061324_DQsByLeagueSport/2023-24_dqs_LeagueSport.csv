@@ -1,0 +1,246 @@
+,District,League,Sport,1 Gm,2 Gm,Tour,1 Yr,Coach,Total,NumSchools
+0,1,Pioneer Valley,BASEBALL-JV,1.0,0.0,0.0,0.0,0.0,1.0,52
+1,2,South Worcester County C,BASEBALL-JV,0.0,0.0,0.0,0.0,1.0,1.0,4
+2,8,South Coast Large,BASEBALL-JV,1.0,0.0,0.0,0.0,0.0,1.0,5
+3,T,,BASEBALL-JV,2.0,0.0,0.0,0.0,1.0,3.0,
+4,1,Berkshire County,BASEBALL-V,1.0,0.0,0.0,0.0,1.0,2.0,11
+5,1,Pioneer Valley,BASEBALL-V,2.0,0.0,0.0,0.0,1.0,3.0,52
+6,2,Colonial Athletic,BASEBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,9
+7,2,Dual Valley,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,6
+8,3,Midland Wachusett Div C,BASEBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,7
+9,4,Dual County,BASEBALL-V,0.0,0.0,1.0,0.0,2.0,3.0,11
+10,4,Merrimack Valley I,BASEBALL-V,2.0,0.0,0.0,0.0,0.0,2.0,7
+11,4,Middlesex,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,12
+12,5,Cape Ann,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,12
+13,5,Commonwealth,BASEBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,13
+14,5,Greater Boston,BASEBALL-V,3.0,0.0,0.0,0.0,2.0,5.0,8
+15,5,Northeastern,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,10
+16,6,Catholic Conference B,BASEBALL-V,1.0,0.0,0.0,0.0,1.0,2.0,6
+17,7,Bay State Carey Division,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,5
+18,7,Hockomock,BASEBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,12
+19,7,Tri-Valley,BASEBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,12
+20,8,Mayflower,BASEBALL-V,0.0,0.0,1.0,0.0,0.0,1.0,15
+21,8,South Coast Large,BASEBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,5
+22,8,South Coast Small,BASEBALL-V,2.0,0.0,0.0,0.0,0.0,2.0,5
+23,9,Patriot,BASEBALL-V,2.0,0.0,0.0,0.0,0.0,2.0,12
+24,T,,BASEBALL-V,18.0,0.0,2.0,0.0,13.0,33.0,
+25,1,Berkshire County,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,11
+26,1,Pioneer Valley,BASKETBALL-JV BOYS,0.0,1.0,0.0,0.0,1.0,2.0,52
+27,2,Inter High,BASKETBALL-JV BOYS,0.0,0.0,0.0,0.0,2.0,2.0,6
+28,2,South Worcester County C,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,4
+29,3,Midland Wachusett Div B,BASKETBALL-JV BOYS,2.0,0.0,0.0,0.0,0.0,2.0,7
+30,4,Merrimack Valley I,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,7
+31,4,Middlesex,BASKETBALL-JV BOYS,3.0,0.0,0.0,0.0,0.0,3.0,12
+32,5,Cape Ann,BASKETBALL-JV BOYS,0.0,1.0,0.0,0.0,0.0,1.0,12
+33,5,Independent,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,3
+34,5,Northeastern,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,10
+35,7,Hockomock,BASKETBALL-JV BOYS,0.0,1.0,0.0,0.0,0.0,1.0,12
+36,7,Tri-Valley,BASKETBALL-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+37,9,Cape and Islands,BASKETBALL-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,13
+38,T,,BASKETBALL-JV BOYS,11.0,3.0,0.0,0.0,4.0,18.0,
+39,8,Mayflower,BASKETBALL-JV GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,15
+40,T,,BASKETBALL-JV GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,
+41,1,Pioneer Valley,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,52
+42,2,South Worcester County A,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,4
+43,2,South Worcester County B,BASKETBALL-V BOYS,0.0,6.0,0.0,0.0,0.0,6.0,4
+44,3,Midland Wachusett Div C,BASKETBALL-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,7
+45,3,Midland Wachusett Div D,BASKETBALL-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,6
+46,3,Worcester County Athletic Conf,BASKETBALL-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,6
+47,4,Middlesex,BASKETBALL-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,12
+48,5,Commonwealth,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,1.0,2.0,13
+49,5,Greater Boston,BASKETBALL-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,8
+50,5,Northeastern,BASKETBALL-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,10
+51,6,Boston City,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,6
+52,6,Boston City North,BASKETBALL-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,13
+53,6,Catholic Central,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,9
+54,7,Bay State Carey Division,BASKETBALL-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,5
+55,7,Tri-Valley,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+56,8,Mayflower,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,1.0,2.0,15
+57,8,Southeast Conference,BASKETBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+58,9,Cape and Islands,BASKETBALL-V BOYS,3.0,1.0,0.0,0.0,0.0,4.0,13
+59,T,,BASKETBALL-V BOYS,11.0,10.0,0.0,0.0,7.0,28.0,
+60,1,Pioneer Valley,BASKETBALL-V GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,52
+61,2,Inter High,BASKETBALL-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,6
+62,5,Commonwealth,BASKETBALL-V GIRLS,0.0,0.0,0.0,0.0,1.0,1.0,13
+63,5,Greater Boston,BASKETBALL-V GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,8
+64,6,Boston City,BASKETBALL-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,6
+65,8,South Coast Small,BASKETBALL-V GIRLS,0.0,0.0,0.0,0.0,1.0,1.0,5
+66,8,Southeast Conference,BASKETBALL-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,5
+67,T,,BASKETBALL-V GIRLS,3.0,2.0,0.0,0.0,2.0,7.0,
+68,2,Dual Valley,FIELD HOCKEY-V,0.0,0.0,1.0,0.0,0.0,1.0,6
+69,5,Northeastern,FIELD HOCKEY-V,1.0,0.0,0.0,0.0,0.0,1.0,10
+70,T,,FIELD HOCKEY-V,1.0,0.0,1.0,0.0,0.0,2.0,
+71,1,Berkshire County,FOOTBALL-V,0.0,1.0,1.0,0.0,0.0,2.0,11
+72,1,Pioneer Valley,FOOTBALL-V,1.0,5.0,0.0,0.0,0.0,6.0,52
+73,2,Inter High,FOOTBALL-V,1.0,1.0,0.0,0.0,0.0,2.0,6
+74,2,South Worcester County A,FOOTBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,4
+75,2,South Worcester County C,FOOTBALL-V,1.0,2.0,0.0,0.0,0.0,3.0,4
+76,3,Midland Wachusett Div A,FOOTBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,6
+77,3,Midland Wachusett Div B,FOOTBALL-V,0.0,1.0,0.0,0.0,0.0,1.0,7
+78,4,Dual County,FOOTBALL-V,0.0,1.0,0.0,0.0,0.0,1.0,11
+79,4,Merrimack Valley I,FOOTBALL-V,3.0,0.0,0.0,0.0,0.0,3.0,7
+80,4,Merrimack Valley II,FOOTBALL-V,2.0,0.0,0.0,0.0,0.0,2.0,4
+81,6,Catholic Central,FOOTBALL-V,1.0,0.0,0.0,0.0,0.0,1.0,9
+82,7,Tri-Valley,FOOTBALL-V,1.0,1.0,0.0,0.0,0.0,2.0,12
+83,8,Mayflower,FOOTBALL-V,2.0,3.0,0.0,0.0,0.0,5.0,15
+84,8,Southeast Conference,FOOTBALL-V,0.0,0.0,1.0,0.0,0.0,1.0,5
+85,9,Cape and Islands,FOOTBALL-V,1.0,1.0,1.0,0.0,0.0,3.0,13
+86,9,Patriot,FOOTBALL-V,0.0,0.0,1.0,0.0,0.0,1.0,12
+87,9,South Shore,FOOTBALL-V,0.0,2.0,0.0,0.0,0.0,2.0,11
+88,T,,FOOTBALL-V,14.0,18.0,4.0,0.0,1.0,37.0,
+89,4,Dual County,Ice Hockey-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,11
+90,4,Middlesex,Ice Hockey-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+91,T,,Ice Hockey-JV BOYS,2.0,0.0,0.0,0.0,0.0,2.0,
+92,1,Pioneer Valley,Ice Hockey-V BOYS,3.0,2.0,0.0,0.0,0.0,5.0,52
+93,2,Central Mass,Ice Hockey-V BOYS,3.0,0.0,0.0,1.0,0.0,4.0,3
+94,2,Colonial Athletic,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,9
+95,2,Dual Valley,Ice Hockey-V BOYS,1.0,0.0,0.0,1.0,0.0,2.0,6
+96,2,Inter High,Ice Hockey-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,6
+97,2,South Worcester County A,Ice Hockey-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,4
+98,3,Midland Wachusett Div A,Ice Hockey-V BOYS,4.0,1.0,0.0,0.0,0.0,5.0,6
+99,3,Midland Wachusett Div B,Ice Hockey-V BOYS,1.0,1.0,0.0,0.0,0.0,2.0,7
+100,3,Midland Wachusett Div C,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,7
+101,4,Dual County,Ice Hockey-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,11
+102,4,Merrimack Valley I,Ice Hockey-V BOYS,1.0,1.0,1.0,0.0,0.0,3.0,7
+103,5,Cape Ann,Ice Hockey-V BOYS,1.0,4.0,0.0,0.0,0.0,5.0,12
+104,5,Commonwealth,Ice Hockey-V BOYS,0.0,2.0,0.0,1.0,0.0,3.0,13
+105,5,Greater Boston,Ice Hockey-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,8
+106,5,Northeastern,Ice Hockey-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,10
+107,6,Boston City North,Ice Hockey-V BOYS,1.0,2.0,0.0,1.0,0.0,4.0,13
+108,6,Catholic Central,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,9
+109,6,Catholic Conference B,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,6
+110,7,Bay State Carey Division,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+111,7,Hockomock,Ice Hockey-V BOYS,2.0,2.0,0.0,0.0,0.0,4.0,12
+112,7,Tri-Valley,Ice Hockey-V BOYS,4.0,3.0,0.0,0.0,0.0,7.0,12
+113,8,Mayflower,Ice Hockey-V BOYS,3.0,0.0,0.0,0.0,0.0,3.0,15
+114,8,South Coast Large,Ice Hockey-V BOYS,0.0,2.0,0.0,0.0,0.0,2.0,5
+115,8,Southeast Conference,Ice Hockey-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+116,9,Cape and Islands,Ice Hockey-V BOYS,0.0,1.0,0.0,1.0,0.0,2.0,13
+117,9,Patriot,Ice Hockey-V BOYS,1.0,2.0,0.0,0.0,0.0,3.0,12
+118,9,South Shore,Ice Hockey-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,11
+119,T,,Ice Hockey-V BOYS,37.0,26.0,1.0,5.0,0.0,69.0,
+120,6,Catholic Central,Ice Hockey-V GIRLS,1.0,1.0,1.0,0.0,0.0,3.0,9
+121,7,Tri-Valley,Ice Hockey-V GIRLS,0.0,0.0,0.0,0.0,1.0,1.0,12
+122,9,Cape and Islands,Ice Hockey-V GIRLS,0.0,1.0,1.0,0.0,0.0,2.0,13
+123,T,,Ice Hockey-V GIRLS,1.0,2.0,2.0,0.0,1.0,6.0,
+124,2,South Worcester County A,LACROSSE-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,4
+125,4,Dual County,LACROSSE-JV BOYS,0.0,2.0,0.0,0.0,0.0,2.0,11
+126,4,Merrimack Valley II,LACROSSE-JV BOYS,0.0,1.0,0.0,0.0,0.0,1.0,4
+127,7,Bay State Carey Division,LACROSSE-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+128,7,Hockomock,LACROSSE-JV BOYS,0.0,1.0,0.0,0.0,0.0,1.0,12
+129,7,Tri-Valley,LACROSSE-JV BOYS,0.0,1.0,0.0,1.0,0.0,2.0,12
+130,T,,LACROSSE-JV BOYS,1.0,5.0,0.0,1.0,1.0,8.0,
+131,1,Pioneer Valley,LACROSSE-JV GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,52
+132,T,,LACROSSE-JV GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,
+133,1,Berkshire County,LACROSSE-V BOYS,1.0,1.0,0.0,0.0,1.0,3.0,11
+134,1,Pioneer Valley,LACROSSE-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,52
+135,4,Middlesex,LACROSSE-V BOYS,0.0,0.0,1.0,0.0,0.0,1.0,12
+136,5,Cape Ann,LACROSSE-V BOYS,0.0,0.0,1.0,0.0,0.0,1.0,12
+137,5,Commonwealth,LACROSSE-V BOYS,1.0,1.0,0.0,1.0,0.0,3.0,13
+138,5,Northeastern,LACROSSE-V BOYS,3.0,1.0,0.0,0.0,0.0,4.0,10
+139,7,Bay State Carey Division,LACROSSE-V BOYS,0.0,4.0,0.0,0.0,0.0,4.0,5
+140,7,Hockomock,LACROSSE-V BOYS,0.0,1.0,0.0,0.0,0.0,1.0,12
+141,7,Tri-Valley,LACROSSE-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+142,8,Mayflower,LACROSSE-V BOYS,0.0,2.0,0.0,0.0,0.0,2.0,15
+143,9,South Shore,LACROSSE-V BOYS,0.0,3.0,0.0,0.0,0.0,3.0,11
+144,T,,LACROSSE-V BOYS,6.0,14.0,2.0,1.0,1.0,24.0,
+145,1,Berkshire County,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,11
+146,1,Pioneer Valley,LACROSSE-V GIRLS,0.0,2.0,0.0,0.0,0.0,2.0,52
+147,2,Colonial Athletic,LACROSSE-V GIRLS,1.0,1.0,0.0,0.0,0.0,2.0,9
+148,3,Midland Wachusett Div A,LACROSSE-V GIRLS,0.0,0.0,1.0,0.0,0.0,1.0,6
+149,4,Dual County,LACROSSE-V GIRLS,2.0,0.0,1.0,1.0,0.0,4.0,11
+150,4,Middlesex,LACROSSE-V GIRLS,0.0,0.0,1.0,0.0,0.0,1.0,12
+151,5,Cape Ann,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,12
+152,5,Commonwealth,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,13
+153,5,Northeastern,LACROSSE-V GIRLS,0.0,2.0,0.0,0.0,0.0,2.0,10
+154,7,Hockomock,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,12
+155,8,Mayflower,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,15
+156,9,Cape and Islands,LACROSSE-V GIRLS,2.0,0.0,0.0,0.0,0.0,2.0,13
+157,9,Patriot,LACROSSE-V GIRLS,1.0,1.0,0.0,0.0,0.0,2.0,12
+158,9,South Shore,LACROSSE-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,11
+159,T,,LACROSSE-V GIRLS,12.0,6.0,3.0,1.0,0.0,22.0,
+160,4,Merrimack Valley I,RUGBY BOYS,1.0,0.0,0.0,0.0,0.0,1.0,7
+161,7,Bay State Herget Division,RUGBY BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+162,T,,RUGBY BOYS,2.0,0.0,0.0,0.0,0.0,2.0,
+163,1,Pioneer Valley,SOCCER-JV BOYS,2.0,0.0,0.0,1.0,0.0,3.0,52
+164,2,South Worcester County A,SOCCER-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,4
+165,4,Dual County,SOCCER-JV BOYS,1.0,3.0,0.0,0.0,0.0,4.0,11
+166,4,Merrimack Valley I,SOCCER-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,7
+167,4,Middlesex,SOCCER-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+168,5,Commonwealth,SOCCER-JV BOYS,1.0,0.0,0.0,0.0,0.0,1.0,13
+169,7,Bay State Carey Division,SOCCER-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,5
+170,7,Hockomock,SOCCER-JV BOYS,0.0,0.0,0.0,0.0,2.0,2.0,12
+171,7,Tri-Valley,SOCCER-JV BOYS,1.0,0.0,0.0,0.0,1.0,2.0,12
+172,8,Southeast Conference,SOCCER-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,5
+173,T,,SOCCER-JV BOYS,8.0,3.0,0.0,1.0,5.0,17.0,
+174,1,Berkshire County,SOCCER-V BOYS,6.0,1.0,1.0,0.0,1.0,9.0,11
+175,1,Pioneer Valley,SOCCER-V BOYS,14.0,4.0,0.0,0.0,1.0,19.0,52
+176,2,Colonial Athletic,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,9
+177,2,Dual Valley,SOCCER-V BOYS,2.0,1.0,0.0,0.0,0.0,3.0,6
+178,2,Inter High,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,6
+179,2,South Worcester County A,SOCCER-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,4
+180,2,South Worcester County C,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,4
+181,3,Midland Wachusett Div A,SOCCER-V BOYS,2.0,0.0,1.0,0.0,0.0,3.0,6
+182,3,Midland Wachusett Div B,SOCCER-V BOYS,0.0,3.0,0.0,1.0,0.0,4.0,7
+183,3,Midland Wachusett Div C,SOCCER-V BOYS,1.0,1.0,0.0,0.0,0.0,2.0,7
+184,3,Midland Wachusett Div D,SOCCER-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,6
+185,4,Dual County,SOCCER-V BOYS,3.0,0.0,1.0,0.0,0.0,4.0,11
+186,4,Independent,SOCCER-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,1
+187,4,Merrimack Valley I,SOCCER-V BOYS,4.0,0.0,1.0,0.0,0.0,5.0,7
+188,4,Merrimack Valley II,SOCCER-V BOYS,3.0,0.0,0.0,0.0,0.0,3.0,4
+189,4,Middlesex,SOCCER-V BOYS,1.0,1.0,0.0,0.0,0.0,2.0,12
+190,5,Commonwealth,SOCCER-V BOYS,2.0,0.0,1.0,0.0,0.0,3.0,13
+191,5,Greater Boston,SOCCER-V BOYS,4.0,1.0,0.0,0.0,0.0,5.0,8
+192,5,Northeastern,SOCCER-V BOYS,3.0,0.0,0.0,0.0,0.0,3.0,10
+193,6,Boston City,SOCCER-V BOYS,0.0,0.0,1.0,0.0,0.0,1.0,6
+194,6,Boston City North,SOCCER-V BOYS,2.0,1.0,0.0,0.0,0.0,3.0,13
+195,6,Boston City South,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+196,6,Catholic Central,SOCCER-V BOYS,3.0,1.0,1.0,0.0,0.0,5.0,9
+197,6,Catholic Conference B,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,6
+198,7,Bay State Carey Division,SOCCER-V BOYS,2.0,0.0,0.0,0.0,0.0,2.0,5
+199,8,Mayflower,SOCCER-V BOYS,1.0,0.0,1.0,0.0,1.0,3.0,15
+200,8,South Coast Large,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+201,8,South Coast Small,SOCCER-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+202,9,Cape and Islands,SOCCER-V BOYS,5.0,2.0,0.0,0.0,0.0,7.0,13
+203,9,Patriot,SOCCER-V BOYS,3.0,0.0,0.0,0.0,0.0,3.0,12
+204,9,South Shore,SOCCER-V BOYS,0.0,0.0,0.0,0.0,1.0,1.0,11
+205,T,,SOCCER-V BOYS,72.0,16.0,8.0,1.0,5.0,102.0,
+206,1,Berkshire County,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,11
+207,1,Pioneer Valley,SOCCER-V GIRLS,2.0,1.0,0.0,1.0,0.0,4.0,52
+208,2,Inter High,SOCCER-V GIRLS,2.0,0.0,0.0,0.0,0.0,2.0,6
+209,2,South Worcester County C,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,4
+210,3,Midland Wachusett Div A,SOCCER-V GIRLS,0.0,0.0,0.0,0.0,1.0,1.0,6
+211,3,Midland Wachusett Div B,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,7
+212,3,Midland Wachusett Div C,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,7
+213,4,Merrimack Valley I,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,7
+214,4,Middlesex,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,12
+215,5,Cape Ann,SOCCER-V GIRLS,2.0,0.0,0.0,0.0,0.0,2.0,12
+216,5,Commonwealth,SOCCER-V GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,13
+217,6,Catholic Conference G,SOCCER-V GIRLS,0.0,0.0,0.0,0.0,1.0,1.0,3
+218,7,Bay State Carey Division,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,5
+219,8,Mayflower,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,15
+220,8,South Coast Large,SOCCER-V GIRLS,0.0,1.0,0.0,0.0,0.0,1.0,5
+221,8,South Coast Small,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,5
+222,9,Cape and Islands,SOCCER-V GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,13
+223,T,,SOCCER-V GIRLS,16.0,3.0,0.0,1.0,2.0,22.0,
+224,3,Midland Wachusett Div C,SOFTBALL-V,1.0,0.0,0.0,0.0,1.0,2.0,7
+225,7,Tri-Valley,SOFTBALL-V,0.0,0.0,0.0,0.0,1.0,1.0,12
+226,T,,SOFTBALL-V,1.0,0.0,0.0,0.0,2.0,3.0,
+227,1,Pioneer Valley,SWIMMING-GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,52
+228,T,,SWIMMING-GIRLS,1.0,0.0,0.0,0.0,0.0,1.0,
+229,5,Cape Ann,TRACK & FIELD-BOYS,0.0,0.0,1.0,0.0,0.0,1.0,12
+230,T,,TRACK & FIELD-BOYS,0.0,0.0,1.0,0.0,0.0,1.0,
+231,4,Dual County,VOLLEYBALL-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,11
+232,T,,VOLLEYBALL-JV BOYS,0.0,0.0,0.0,0.0,1.0,1.0,
+233,4,Merrimack Valley I,VOLLEYBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,7
+234,6,Catholic Conference B,VOLLEYBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,6
+235,7,Bay State Carey Division,VOLLEYBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,5
+236,7,Tri-Valley,VOLLEYBALL-V BOYS,1.0,0.0,0.0,0.0,0.0,1.0,12
+237,T,,VOLLEYBALL-V BOYS,4.0,0.0,0.0,0.0,0.0,4.0,
+238,3,Midland Wachusett Div B,WRESTLING,0.0,0.0,0.0,0.0,1.0,1.0,7
+239,4,Middlesex,WRESTLING,0.0,0.0,1.0,0.0,0.0,1.0,12
+240,5,Northeastern,WRESTLING,2.0,0.0,0.0,0.0,0.0,2.0,10
+241,7,Hockomock,WRESTLING,0.0,2.0,0.0,0.0,0.0,2.0,12
+242,8,Mayflower,WRESTLING,0.0,0.0,1.0,0.0,0.0,1.0,15
+243,9,South Shore,WRESTLING,1.0,0.0,0.0,0.0,0.0,1.0,11
+244,T,,WRESTLING,3.0,2.0,2.0,0.0,1.0,8.0,
